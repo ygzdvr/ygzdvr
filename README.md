@@ -9,17 +9,31 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on [Sociokraft](sociokraft.com)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="32" height="32"/> About Me
+- 🎓 I am currently studying Bachelor of Science in Engineering in Computer Science at Princeton University.
+- 📝 I am pursuing minors in Operations Research & Financial Engineering(ORFE), Finance, and Statistics and Machine Learning(SML).
+- 🖥️ I am the founder and lead developer at [Sociokraft](http://sociokraft.com), a company supported by Princeton University and Keller Center.
+- :link: Find my professional info at [LinkedIn](https://linkedin.com/in/yagizdevre/).
 
-- 💬 Ask me about **Tensorflow, React Native, Node JS, and Swift**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32" /> I previously worked on ...
+- 🧪 At the [Department of Energy, Princeton Plasma Physics Lab](https://www.pppl.gov/), I worked as a Molecular Dynamics Researcher.
+- 🖥️ I have been an Undergraduate Teaching Assistant for Algorithms and Data Structures at Princeton University.
+- 🧑‍🏫 At [Kadir Has University](https://www.khas.edu.tr/), I was a Renormalization Group Researcher and Teaching Assistant.
 
-- 📫 How to reach me **yagiz.devre@princeton.edu**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="32" height="32" /> I’m currently learning ...
+- 📊 Financial Analysis and Corporate Finance.
+- 🔬 Advanced topics in Machine Learning, including AI Vector Search and Databases.
+- 💼 Corporate Finance and Stock Market Analysis.
+- 🧮 Statistical Analysis and Machine Learning for Cognitive Systems.
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="32" height="32" /> I’m looking for help with ...
+- 📊 Expanding my knowledge in Quantitative Analysis and Trading.
+- 💻 Improving my skills in Full Stack Development.
+- 🤖 Further exploring the field of Machine Learning and AI.
+  
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yagizdevre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yagizdevre" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yagizdevre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yagizdevre" height="30" width="40" /></a>
-<a href="https://instagram.com/devre.yagiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devre.yagiz" height="30" width="40" /></a>
-</p>
+## 📫 How to reach me ...
+- :email: Email: yagiz.devre@princeton.edu
+-  💼 LinkedIn: [yagizdevre](https://linkedin.com/in/yagizdevre/)
+-  📷 Instagram: [devre.yagiz](https://instagram.com/devre.yagiz/)
+-  🐦‍⬛ Twitter: [yagizdevre](https://twitter.com/yagizdevre)
