@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ygzdvr&label=Profile%20views&color=0e75b6&style=flat" alt="ygzdvr" /> </p>
 
-- 🔭 I’m currently working on [Sociokraft](sociokraft.com)
+- 🔭 I’m currently working on [Sociokraft](https://sociokraft.com)
 
 - 💬 Ask me about **Tensorflow, React Native, Node JS, and Swift**
 
