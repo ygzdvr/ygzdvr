@@ -9,8 +9,6 @@
 </div>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ygzdvr&label=Profile%20views&color=5145d9&style=flat" alt="ygzdvr" /> </p>
-
 - 🔭 I’m currently working on [Sociokraft](sociokraft.com)
 
 - 💬 Ask me about **Tensorflow, React Native, Node JS, and Swift**
