@@ -1,3 +1,4 @@
+[<img src="https://raw.githubusercontent.com/ygzdvr/ygzdvr/main/readme.gif" alt="# 👋 Hello World! I'm Yagiz Devre" title="# 👋 HHello World! I'm Yagiz Devre"/>](https://yagizdevre.com/)
 <h1 align="center">Hi 👋, I'm Yagiz Devre</h1>
 <h3 align="center">A passionate full-stack developer and sophomore at Princeton University</h3>
 
