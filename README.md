@@ -2,10 +2,10 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fygzdvr%2Fygzdvr&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
-  <a href="https://www.linkedin.com/in/yagizdevre/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:yagiz.devre@princeton.edu"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://twitter.com/yagizdevre"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="YagizDevre" ></a>
-  <a href="https://instagram/devre.yagiz"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="YagizDevre" ></a>
+  <a href="https://www.linkedin.com/in/yagizdevre/"><img src="https://img.shields.io/badge/LinkedIn-fcfcfd?style=for-the-badge&logo=linkedin&logoColor=0F0E1B"/></a>
+  <a href="mailto:yagiz.devre@princeton.edu"><img src="https://img.shields.io/badge/Gmail-fcfcfd?style=for-the-badge&logo=gmail&logoColor=0F0E1B" /></a>
+  <a href="https://twitter.com/yagizdevre"><img src="https://img.shields.io/badge/Twitter-fcfcfd?style=for-the-badge&logo=twitter&logoColor=0F0E1B" alt="YagizDevre" ></a>
+  <a href="https://instagram/devre.yagiz"><img src="https://img.shields.io/badge/Instagram-fcfcfd?style=for-the-badge&logo=instagram&logoColor=0F0E1B" alt="YagizDevre" ></a>
 </div>
 <br>
 
