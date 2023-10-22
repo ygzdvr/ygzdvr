@@ -32,7 +32,7 @@
 - 🤖 Further exploring the field of Machine Learning and AI.
   
 
-## 📫 How to reach me ...
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="32" height="32" /> How to reach me ...
 - :email: Email: yagiz.devre@princeton.edu
 -  💼 LinkedIn: [yagizdevre](https://linkedin.com/in/yagizdevre/)
 -  📷 Instagram: [devre.yagiz](https://instagram.com/devre.yagiz/)
