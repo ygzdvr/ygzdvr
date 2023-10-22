@@ -7,7 +7,6 @@
   <br><br>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fygzdvr%2Fygzdvr&label=VISITORS&labelColor=%5145d9&countColor=%fcfcfd" />
 </div>
-<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="32" height="32"/> About Me
 - 🎓 I am currently studying Bachelor of Science in Engineering in Computer Science at Princeton University.
