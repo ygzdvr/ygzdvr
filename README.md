@@ -33,5 +33,3 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="32" height="32" />How to reach me ...
 - :email: Email: yagiz.devre@princeton.edu
 -  💼 LinkedIn: [yagizdevre](https://linkedin.com/in/yagizdevre/)
--  📷 Instagram: [devre.yagiz](https://instagram.com/devre.yagiz/)
--  🐦‍⬛ Twitter: [yagizdevre](https://twitter.com/yagizdevre)
