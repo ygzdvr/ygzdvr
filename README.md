@@ -11,7 +11,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="32" height="32"/> About Me
 - 🎓 I am currently studying Bachelor of Science in Engineering in Computer Science at Princeton University.
 - 📝 I am pursuing minors in Operations Research & Financial Engineering(ORFE), Finance, and Statistics and Machine Learning(SML).
-- 🖥️ I am the founder and lead developer at [Sociokraft](http://sociokraft.com), a company supported by Princeton University and Keller Center.
 - :link: Find my professional info at [LinkedIn](https://linkedin.com/in/yagizdevre/).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32" /> I previously worked on ...
