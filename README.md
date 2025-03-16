@@ -16,7 +16,7 @@
 - 🚀 [Sentient Foundation](https://sentient.foundation/), I worked on creating scalable serverless backend architectures using AWS and developed frontends with Next.js and Vercel.
 - 👨‍💻 [Pinecone](https://www.pinecone.io/), I worked as a Data Science Intern, developing and optimizing data pipelines using SQL and Python, and conducting analyses for product performance improvements.
 - 🤖 [Hazan Lab at Google AI Princeton](https://sites.google.com/view/gbrainprinceton/home), I collaborated as a Research Intern, focusing on developing Spectral Large Language Models (LLMs) and Spectral Transform Units (STU).
-- 📈 [Ak Asset Management](https://www.akportfoy.com.tr/), I performed comprehensive financial analysis and due diligence as a Private Equity Analyst Intern.
+- 📈 [Akbank Asset Management](https://www.akportfoy.com.tr/), I performed comprehensive financial analysis and due diligence as a Private Equity Analyst Intern.
 - 🧪 [Department of Energy, Princeton Plasma Physics Lab](https://www.pppl.gov/), I worked as a Molecular Dynamics Researcher.
 - 🖥️ Princeton University Department of Computer Science as a Teaching Assistant for [COS226: Algorithms and Data Structures](https://www.cs.princeton.edu/courses/archive/spring25/cos226/) and [COS333: Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/spring25/cos333/) at Princeton University.
 
