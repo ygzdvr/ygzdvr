@@ -12,6 +12,9 @@
 - :link: Find my professional info at [LinkedIn](https://linkedin.com/in/yagizdevre/).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32" /> I previously worked on ...
+- 👨‍💻 At [Pinecone](https://www.pinecone.io/), I worked as a Data Science Intern, developing and optimizing data pipelines using SQL and Python, and conducting analyses for product performance improvements.
+- 📈 At [Ak Asset Management](https://www.akportfoy.com.tr/), I performed comprehensive financial analysis and due diligence as a Private Equity Analyst Intern.
+- 🤖 At [Hazan Lab at Google AI Princeton](https://sites.google.com/view/gbrainprinceton/home), I collaborated as a Research Intern, focusing on developing Spectral Large Language Models (LLMs) and Spectral Transform Units (STU).
 - 🧪 At the [Department of Energy, Princeton Plasma Physics Lab](https://www.pppl.gov/), I worked as a Molecular Dynamics Researcher.
 - 🖥️ I have been an Undergraduate Teaching Assistant for [COS226: Algorithms and Data Structures](https://www.cs.princeton.edu/courses/archive/spring25/cos226/) and [COS333: Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/spring25/cos333/) at Princeton University.
 - 🧑‍🏫 At [Kadir Has University](https://www.khas.edu.tr/), I was a Renormalization Group Researcher and Teaching Assistant.
