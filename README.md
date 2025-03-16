@@ -22,13 +22,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="32" height="32" /> I’m currently learning ...
 - 📊 Financial Analysis and Corporate Finance.
 - 🔬 Advanced topics in Machine Learning, including AI Vector Search and Databases.
-- 💼 Corporate Finance and Stock Market Analysis.
+- 🤖 Large Language Models and Reasoning Engingines.
 - 🧮 Statistical Analysis and Machine Learning for Cognitive Systems.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="32" height="32" /> I’m looking for help with ...
 - 📊 Expanding my knowledge in Quantitative Analysis and Trading.
 - 💻 Improving my skills in Full Stack Development.
-- 🤖 Further exploring the field of Machine Learning and AI.
+- 🤖 Further exploring the field of state space models.
   
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="32" height="32" />How to reach me ...
