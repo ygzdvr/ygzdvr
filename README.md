@@ -13,7 +13,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32" /> I previously worked on ...
 - 🧪 At the [Department of Energy, Princeton Plasma Physics Lab](https://www.pppl.gov/), I worked as a Molecular Dynamics Researcher.
-- 🖥️ I have been an Undergraduate Teaching Assistant for Algorithms and Data Structures at Princeton University.
+- 🖥️ I have been an Undergraduate Teaching Assistant for COS226: Algorithms and Data Structures and COS333: Advanced Algorithm Design at Princeton University.
 - 🧑‍🏫 At [Kadir Has University](https://www.khas.edu.tr/), I was a Renormalization Group Researcher and Teaching Assistant.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="32" height="32" /> I’m currently learning ...
