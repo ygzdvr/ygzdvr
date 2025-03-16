@@ -13,6 +13,7 @@
 - :link: Find my professional info at [LinkedIn](https://linkedin.com/in/yagizdevre/).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32" /> I previously worked at
+- 🚀 At [Sentient Foundation](https://sentient.foundation/), I worked on creating scalable serverless backend architectures using AWS and developed frontends with Next.js and Vercel.
 - 👨‍💻 [Pinecone](https://www.pinecone.io/), I worked as a Data Science Intern, developing and optimizing data pipelines using SQL and Python, and conducting analyses for product performance improvements.
 - 📈 [Ak Asset Management](https://www.akportfoy.com.tr/), I performed comprehensive financial analysis and due diligence as a Private Equity Analyst Intern.
 - 🤖 [Hazan Lab at Google AI Princeton](https://sites.google.com/view/gbrainprinceton/home), I collaborated as a Research Intern, focusing on developing Spectral Large Language Models (LLMs) and Spectral Transform Units (STU).
