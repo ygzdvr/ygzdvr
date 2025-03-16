@@ -19,7 +19,6 @@
 - 📈 [Ak Asset Management](https://www.akportfoy.com.tr/), I performed comprehensive financial analysis and due diligence as a Private Equity Analyst Intern.
 - 🧪 [Department of Energy, Princeton Plasma Physics Lab](https://www.pppl.gov/), I worked as a Molecular Dynamics Researcher.
 - 🖥️ Princeton University Department of Computer Science as a Teaching Assistant for [COS226: Algorithms and Data Structures](https://www.cs.princeton.edu/courses/archive/spring25/cos226/) and [COS333: Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/spring25/cos333/) at Princeton University.
-- 🧑‍🏫 [Kadir Has University](https://www.khas.edu.tr/), I was a Renormalization Group Researcher and Teaching Assistant.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="32" height="32" /> I’m currently learning ...
 - 📊 Financial Analysis and Corporate Finance.
