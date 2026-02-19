@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/ygzdvr/ygzdvr/main/readme.gif" alt="# 👋 Hello World! I'm Yagiz Devre" title="# 👋 HHello World! I'm Yagiz Devre"/>](https://yagizdevre.com/)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/yagizdevre/"><img src="https://img.shields.io/badge/LinkedIn-fcfcfd?style=for-the-badge&logo=linkedin&logoColor=0F0E1B"/></a>
   <a href="mailto:yagiz.devre@princeton.edu"><img src="https://img.shields.io/badge/Gmail-fcfcfd?style=for-the-badge&logo=gmail&logoColor=0F0E1B" /></a>
